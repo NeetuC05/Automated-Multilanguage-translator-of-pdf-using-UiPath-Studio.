@@ -1,1 +1,3 @@
 # Automated-Multilanguage-translator-of-pdf-using-UiPath-Studio.
+
+This project aims to automate the translation of PDF documents into multiple languages using UiPath Studio. The automation process includes extracting text from PDF files, translating the content into the desired language using integrated translation APIs (such as Google Translate), and generating new PDFs with the translated content. The system enhances productivity by eliminating manual translation tasks, supporting multilingual document workflows, and ensuring efficiency and consistency. This project is particularly useful in business environments where documents need to be shared across language barriers quickly and accurately.
